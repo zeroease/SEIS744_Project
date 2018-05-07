@@ -1,3 +1,5 @@
+//ANTONIO DITOMMASO PROJECT FOR SEIS 744-01
+//CODE PULLED FROM https://particle.hackster.io/Richa1/kid-tracker-1b58c9
 // This #include statement was automatically added by the Particle IDE.
 #include "application.h"
 #include "neopixel/neopixel.h"
