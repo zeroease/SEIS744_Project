@@ -1,0 +1,24 @@
+<!-- Replace your-device-ID-goes-here with your actual device ID
+and replace your-access-token-goes-here with your actual access token-->
+<!DOCTYPE>
+<html>
+<head>  
+<meta charset="utf-8">  
+<title>Safety Bear</title>  
+</head>  
+  <body>
+  <center>
+  <br>
+  <br>
+  <br>
+  <form action="https://api.particle.io/v1/devices/2d003c000651353530373132/led?access_token=1b7055b4a0dd96a1b65c1d2c5613c02638ba8b2e" method="POST">
+    Safety Bear Control<br>
+    <br>
+    <input type="radio" name="arg" value="Home">GPS OFF
+    <br>
+    <input type="radio" name="arg" value="Help">GPS ON
+    <br>
+    <input type="submit" value="Submit">
+  </form>
+
+  <div id="map" style="width:100%;height:500px"></div>
