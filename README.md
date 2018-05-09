@@ -12,8 +12,12 @@ There are two interfaces, a web app that allows you to click on a radio button t
 Materials needed:
 
 Particle Maker Kit
+
 Eztronics Corp Ublox NEO-6M GPS Module Aircraft Flight Controller
+
 Adafruit 12 RGB LED Neopixel Ring
+
 Taoglas PC104.07.0165C High Performance Cellular
+
 Bear Bookbag
 
